@@ -1,2 +1,2 @@
 # NFCDemo
-android nfc demo
+android NFC demo
